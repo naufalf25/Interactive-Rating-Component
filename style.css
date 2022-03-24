@@ -190,5 +190,11 @@ button.submit-btn:hover {
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: var(--color-white); 
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.attribution a:hover {
+    color: var(--color-lightgrey);
 }
