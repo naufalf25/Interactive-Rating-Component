@@ -51,4 +51,4 @@ Users should be able to:
 
 - Frontend Mentor - [@naufalf25](https://www.frontendmentor.io/profile/naufalf25)
 - Instagram - [@naufal_railfans25](https://www.instagram.com/naufal_railfans25/)
-- Linkedin - [Muhammad-Naufal-Farras] (https://www.linkedin.com/in/muhammad-naufal-farras-2605a2200/)
+- Linkedin - [Muhammad-Naufal-Farras](https://www.linkedin.com/in/muhammad-naufal-farras-2605a2200/)
