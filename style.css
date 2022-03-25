@@ -133,6 +133,11 @@ button.submit-btn:hover {
     color: var(--color-orange);
 }
 
+#alert {
+    margin-top: 1rem;
+    text-align: center;
+}
+
 .thankyou-section {
     display: none;
     text-align: center;
